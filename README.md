@@ -166,6 +166,9 @@ respuesta gemini Daya: https://share.gemini.google/iVsMM9xXYAE4
 
 Respuesta gemini Isi: https://share.gemini.google/qzMD4GJ41iNU
 
+# Video de uso
+
+https://youtu.be/N31BXfm1YHI
 
 
 
